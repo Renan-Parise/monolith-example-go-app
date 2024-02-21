@@ -11,13 +11,13 @@ Para executar esta aplicação, siga estes passos:
 2. Clone este repositório para sua máquina local usando o Git:
 
     ```
-    git clone <repository-url>
+    git clone https://github.com/Renan-Parise/monolith-example-go-app.git
     ```
 
 3. Navegue até o diretório do projeto:
 
     ```
-    cd <project-directory>
+    cd monolith-example-go-app
     ```
 
 4. Instale o framework Gin executando o seguinte comando no seu terminal:
